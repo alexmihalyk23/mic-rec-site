@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mic-rec-site/static/css/main.136cefa2.css",
+    "main.js": "/mic-rec-site/static/js/main.2de40400.js",
+    "static/js/787.44e022fc.chunk.js": "/mic-rec-site/static/js/787.44e022fc.chunk.js",
+    "static/media/data.txt": "/mic-rec-site/static/media/data.3500724f064c8d9833a4.txt",
+    "index.html": "/mic-rec-site/index.html",
+    "main.136cefa2.css.map": "/mic-rec-site/static/css/main.136cefa2.css.map",
+    "main.2de40400.js.map": "/mic-rec-site/static/js/main.2de40400.js.map",
+    "787.44e022fc.chunk.js.map": "/mic-rec-site/static/js/787.44e022fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.136cefa2.css",
+    "static/js/main.2de40400.js"
+  ]
+}
